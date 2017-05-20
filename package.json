@@ -1,0 +1,19 @@
+{
+  "name": "the-portal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://myx4play@gitlab.com/myx4play/the-portal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/myx4play/the-portal/issues"
+  },
+  "homepage": "https://gitlab.com/myx4play/the-portal#README"
+}
