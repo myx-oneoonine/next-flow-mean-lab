@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://gitlab.com/myx4play/the-portal/issues"
   },
-  "homepage": "https://gitlab.com/myx4play/the-portal#README"
+  "homepage": "https://gitlab.com/myx4play/the-portal#README",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "monk": "^4.1.0",
+    "path": "^0.12.7",
+    "pug": "^2.0.0-rc.1"
+  }
 }
